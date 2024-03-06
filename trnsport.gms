@@ -4,6 +4,8 @@ $onText
 This problem finds a least cost shipping schedule that meets
 requirements at markets and supplies at factories.
 
+Added to E3M's Git tutorial by AG
+
 
 Dantzig, G B, Chapter 3.3. In Linear Programming and Extensions.
 Princeton University Press, Princeton, New Jersey, 1963.
